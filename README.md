@@ -4,6 +4,6 @@ A mate is a special cup made of wood, plastic or gourd. It is used, with a metal
 This project was inspired by The TensorFlow API, datitran´s racoon dataset, and Sentdex´s PythonProgramming blog.
 
 Software used to train:
-ssd_mobilenet_v1_coco
+ssd_mobilenet_v1_coco and
 labelImg (by tzutalin) - for drawing the bozes in the training
 
