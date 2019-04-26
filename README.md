@@ -5,5 +5,5 @@ This project was inspired by The TensorFlow API, datitran´s racoon dataset, and
 
 Software used to train:
 ssd_mobilenet_v1_coco and
-labelImg (by tzutalin) - for drawing the bozes in the training
+labelImg (by tzutalin) - for drawing the boxes in the training
 
